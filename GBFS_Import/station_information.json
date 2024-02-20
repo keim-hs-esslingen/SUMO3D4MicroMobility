@@ -1,0 +1,1633 @@
+{
+    "last_updated": 1706183560,
+    "ttl": 86400,
+    "version": "2.2",
+    "data": {
+        "stations": [
+            {
+                "station_id": "f2c1c0a4-8aed-4086-ac4b-cca1c2395262",
+                "name": "U Bhf. Sillenbuch / Kirchheimer Straße",
+                "lat": 48.744887,
+                "lon": 9.212607,
+                "capacity": 12
+            },
+            {
+                "station_id": "06c25efb-a959-4ce8-b8dc-a90031727dff",
+                "name": "Theodor-Heuss-Str. / Büchsenstr.",
+                "lat": 48.7773,
+                "lon": 9.17387,
+                "capacity": 16
+            },
+            {
+                "station_id": "91875007-87cf-4a16-93c6-64d2275f4567",
+                "name": "Olgastr. / Bopserstr.",
+                "lat": 48.7695,
+                "lon": 9.18058,
+                "capacity": 30
+            },
+            {
+                "station_id": "38ad937b-8e10-43e6-975f-0903153c0fc3",
+                "name": "Bhf. Bietigheim-Bissingen / Borsigstraße",
+                "lat": 48.94816,
+                "lon": 9.13589,
+                "capacity": 32
+            },
+            {
+                "station_id": "958219cd-8009-45b6-8a04-1cc4ae763307",
+                "name": "Reuteallee / S-Bahnstation Favoritepark",
+                "lat": 48.90831,
+                "lon": 9.17979,
+                "capacity": 12
+            },
+            {
+                "station_id": "bef06b97-4cd8-4c6a-a062-af14d039d62b",
+                "name": "Bhf. Plieninger Str. / Plieninger Str.",
+                "lat": 48.7240462,
+                "lon": 9.1566153,
+                "capacity": 12
+            },
+            {
+                "station_id": "6d291646-6e0d-4448-b8df-e5dce818e6dc",
+                "name": "Marktplatz Bad Cannstatt / 0",
+                "lat": 48.80527,
+                "lon": 9.21486,
+                "capacity": 40
+            },
+            {
+                "station_id": "eefba446-3728-4ae3-820f-6cf731e18463",
+                "name": "Rathaus Rutesheim / Leonberger Str.",
+                "lat": 48.80842,
+                "lon": 8.94755,
+                "capacity": 12
+            },
+            {
+                "station_id": "4cf38c39-4355-4fcf-93b5-3dacb44c4386",
+                "name": "ILEK / Pfaffenwaldring",
+                "lat": 48.7492784,
+                "lon": 9.113266,
+                "capacity": 40
+            },
+            {
+                "station_id": "61d07ad6-aa8a-48c6-b88d-5916287e49f3",
+                "name": "ZOB Nürtingen / Bahnhofstraße",
+                "lat": 48.62856,
+                "lon": 9.34174,
+                "capacity": 12
+            },
+            {
+                "station_id": "f6553acc-d262-426b-bf65-9b2b3c7792b1",
+                "name": "Mensa-Vaihingen / Pfaffenwaldring",
+                "lat": 48.74622,
+                "lon": 9.10251,
+                "capacity": 42
+            },
+            {
+                "station_id": "60a39ff6-00a2-4d15-a2ac-e8b12f8aed0b",
+                "name": "Mobility Hub Bhf. Böblingen / Talstraße",
+                "lat": 48.68791,
+                "lon": 9.0055444,
+                "capacity": 40
+            },
+            {
+                "station_id": "fe12fff2-a57b-446c-a6e0-5c64981ce475",
+                "name": "Bhf. Remseck am Neckar / Neckargröningen",
+                "lat": 48.8736,
+                "lon": 9.27123,
+                "capacity": 24
+            },
+            {
+                "station_id": "cf8fda8d-39a9-4984-8295-59c1eeaa0a0d",
+                "name": "Konrad-Adenauer-Str. / Haus der Geschichte",
+                "lat": 48.778863,
+                "lon": 9.18535,
+                "capacity": 40
+            },
+            {
+                "station_id": "3f96d336-f758-48c0-aea6-a50c3cbae2e5",
+                "name": "Stadtbibliothek / Milaneo",
+                "lat": 48.790541,
+                "lon": 9.182693,
+                "capacity": 36
+            },
+            {
+                "station_id": "2fc62328-0007-47fb-91fd-984f23e7e9f1",
+                "name": "Bahnhof Nürnberger Straße / Nürnberger Str",
+                "lat": 48.8065,
+                "lon": 9.2347,
+                "capacity": 28
+            },
+            {
+                "station_id": "6b4e72b6-5ab1-46f5-ad1a-ec697ff9c39e",
+                "name": "Dorfplatz Darmsheim / Widdumstraße",
+                "lat": 48.69587,
+                "lon": 8.93995,
+                "capacity": 12
+            },
+            {
+                "station_id": "3dba017d-3c77-4e6f-9287-591e31d6a64f",
+                "name": "Johannesstr. / Lerchenstr.",
+                "lat": 48.7807,
+                "lon": 9.15907,
+                "capacity": 34
+            },
+            {
+                "station_id": "65338bfe-b20a-413c-b216-bca2a669d314",
+                "name": "S Bhf. Leinfelden / Bahnhofstr.",
+                "lat": 48.697147,
+                "lon": 9.142138,
+                "capacity": 24
+            },
+            {
+                "station_id": "94caca6d-7575-4c6a-8e97-ad86485b1a29",
+                "name": "Mönchfeldstr. / Aldinger Str.",
+                "lat": 48.841708,
+                "lon": 9.2308538,
+                "capacity": 40
+            },
+            {
+                "station_id": "d5b30e19-7acb-4520-bd6e-0ab4c531dbe7",
+                "name": "Lautenschlagerstr. / Zeppelin Carré",
+                "lat": 48.7829,
+                "lon": 9.17978,
+                "capacity": 44
+            },
+            {
+                "station_id": "3f1fe5b4-2919-4fef-94b1-10d22ca1c286",
+                "name": "U Bhf. Hallschlag / Löwentorstraße / 0",
+                "lat": 48.81795,
+                "lon": 9.20416,
+                "capacity": 40
+            },
+            {
+                "station_id": "09f10bff-c154-4a86-aceb-553669e62afc",
+                "name": "Bhf. Waiblingen / Neue Bahnhofstraße",
+                "lat": 48.826599,
+                "lon": 9.301561,
+                "capacity": 36
+            },
+            {
+                "station_id": "e91af2db-ded4-4e95-9574-a80e7944cfd8",
+                "name": "Leipziger Platz / Ludwigstr.",
+                "lat": 48.771042,
+                "lon": 9.15074,
+                "capacity": 18
+            },
+            {
+                "station_id": "67e7f867-cdda-4024-9fdd-571e523ea85d",
+                "name": "Bhf. Goldberg / Leipziger Straße",
+                "lat": 48.69804,
+                "lon": 9.01957,
+                "capacity": 12
+            },
+            {
+                "station_id": "6c87c7d5-434c-47a1-824a-e2db96a7ee5d",
+                "name": "Freiburger Allee / Sömmerdaplatz",
+                "lat": 48.6698,
+                "lon": 9.00499,
+                "capacity": 12
+            },
+            {
+                "station_id": "b49fe726-fc16-46c1-bbd3-6a20e9541bcd",
+                "name": "S Bhf. Feuerbach / Wiener Platz",
+                "lat": 48.813335,
+                "lon": 9.168869,
+                "capacity": 30
+            },
+            {
+                "station_id": "d269b5eb-2d5a-4b02-b14c-dbd7d3b8b43b",
+                "name": "Wilhelmsplatz / Schlosserstr.",
+                "lat": 48.7711,
+                "lon": 9.17874,
+                "capacity": 42
+            },
+            {
+                "station_id": "609f4a8d-2b57-4945-8a3a-14e2b3933494",
+                "name": "Rathaus Dagersheim / Schulstraße",
+                "lat": 48.69177,
+                "lon": 8.95091,
+                "capacity": 12
+            },
+            {
+                "station_id": "ae6361ae-5447-477e-9739-17e7434480c3",
+                "name": "Leharstraße / Versorgungszentrum Laihle",
+                "lat": 48.7816907,
+                "lon": 9.1316233,
+                "capacity": 12
+            },
+            {
+                "station_id": "c159df99-5a77-4c71-815e-8369843ec1d0",
+                "name": "Wilhelm-Haspel-Straße / Mahdentalstraße",
+                "lat": 48.707255,
+                "lon": 9.032202,
+                "capacity": 12
+            },
+            {
+                "station_id": "b5b630c7-3de2-452f-aa83-7900f78e6d36",
+                "name": "Landratsamt Böblingen / Maurener Weg",
+                "lat": 48.68166,
+                "lon": 9.00955,
+                "capacity": 18
+            },
+            {
+                "station_id": "e2e915de-10f7-4a39-8263-ddac59c084b9",
+                "name": "Hedelfingen / Hedelfinger Platz",
+                "lat": 48.7598,
+                "lon": 9.25423,
+                "capacity": 12
+            },
+            {
+                "station_id": "5fb66284-4eea-4ebc-ad87-aacb454107e6",
+                "name": "Bhf. Untertürkheim / Arlbergstr.",
+                "lat": 48.780035,
+                "lon": 9.251085,
+                "capacity": 12
+            },
+            {
+                "station_id": "69a20737-5c07-4ab4-ad8a-4fcba602ef6b",
+                "name": "W&W Campus / Außenparkfläche",
+                "lat": 48.88033,
+                "lon": 9.19114,
+                "capacity": 40
+            },
+            {
+                "station_id": "992bd964-f768-4137-ab60-9c5b914d1bbd",
+                "name": "Uhlbacher Platz / Herrengasse",
+                "lat": 48.776058,
+                "lon": 9.279318,
+                "capacity": 12
+            },
+            {
+                "station_id": "44cc28cc-36c9-4c77-84ec-b7e3ff966cbf",
+                "name": "Bhf. Maichingen-Nord / Stuttgarter Straße",
+                "lat": 48.72744,
+                "lon": 8.98004,
+                "capacity": 12
+            },
+            {
+                "station_id": "fc37cce1-f628-4699-87a9-3242b38d88ef",
+                "name": "Bhf. Fellbach / Schaflandstraße",
+                "lat": 48.82105,
+                "lon": 9.27135,
+                "capacity": 24
+            },
+            {
+                "station_id": "1c54aa57-af58-42d4-a56c-577cbb9e1cdd",
+                "name": "Rotenwaldstraße / Westbahnhof",
+                "lat": 48.7710288,
+                "lon": 9.1446386,
+                "capacity": 12
+            },
+            {
+                "station_id": "a19d6f19-e2c3-4384-af36-487bb9cce926",
+                "name": "Freibad Möhringen / Hechinger Str.",
+                "lat": 48.717892,
+                "lon": 9.143251,
+                "capacity": 40
+            },
+            {
+                "station_id": "36d9c4da-4cd4-48cf-bbde-4cd535246b72",
+                "name": "Bietigheimer Str. / Metterzimmerer Str.",
+                "lat": 48.96939,
+                "lon": 9.07583,
+                "capacity": 12
+            },
+            {
+                "station_id": "f478de7b-b6d9-4213-a1e9-73ad900d7552",
+                "name": "Wilhelma / Neckartalstraße",
+                "lat": 48.803633,
+                "lon": 9.207643,
+                "capacity": 24
+            },
+            {
+                "station_id": "2d535f7a-3c6e-4332-930a-e72575214e5f",
+                "name": "Postplatz / Stuttgarter Straße",
+                "lat": 48.68585,
+                "lon": 9.01542,
+                "capacity": 40
+            },
+            {
+                "station_id": "21509415-fe58-4a51-b8eb-6f301a5f97a0",
+                "name": "Jugendherberge / Haußmannstr.",
+                "lat": 48.780068,
+                "lon": 9.191206,
+                "capacity": 28
+            },
+            {
+                "station_id": "594023a7-7f92-4fd5-b275-87d6f544726b",
+                "name": "Bhf. Ditzingen / Nordseite",
+                "lat": 48.8237996,
+                "lon": 9.0663977,
+                "capacity": 24
+            },
+            {
+                "station_id": "5093a3cb-99d0-47e4-944e-6ae925f95151",
+                "name": "Kleiner Schloßplatz / Theodor-Heuss-Str.",
+                "lat": 48.7781,
+                "lon": 9.17621,
+                "capacity": 38
+            },
+            {
+                "station_id": "9b56c45d-c8e9-4b7f-b1df-4157b3edaae2",
+                "name": "Marktplatz / Hockengasse",
+                "lat": 48.75926,
+                "lon": 9.684995,
+                "capacity": 12
+            },
+            {
+                "station_id": "5159fa8a-32ec-49db-b605-1007c7fc0314",
+                "name": "Stadtmitte Fellbach / Lutherkirche",
+                "lat": 48.80896,
+                "lon": 9.27614,
+                "capacity": 12
+            },
+            {
+                "station_id": "f57a6f5b-6a93-44bc-8a0d-b88c8fd9e58b",
+                "name": "Johannesstr. / Schloßstr.",
+                "lat": 48.7767,
+                "lon": 9.16221,
+                "capacity": 32
+            },
+            {
+                "station_id": "7c794f93-506a-4a77-a6b6-12660723a591",
+                "name": "Eckartstr. / Nordbahnhofstr.",
+                "lat": 48.795422,
+                "lon": 9.189162,
+                "capacity": 40
+            },
+            {
+                "station_id": "0ea8044a-f3f0-4f0e-8f6c-9c849c218160",
+                "name": "U Bhf. Mönchfeld / Karpfenstraße",
+                "lat": 48.84428,
+                "lon": 9.21797,
+                "capacity": 8
+            },
+            {
+                "station_id": "547c1881-64f8-4668-974f-30733905823b",
+                "name": "U Bhf. Tapachstraße / Fleiner Str. / 0",
+                "lat": 48.83422,
+                "lon": 9.1953,
+                "capacity": 40
+            },
+            {
+                "station_id": "67681336-92ba-48cd-a83d-23b83e1fb88f",
+                "name": "Bhf. Eislingen (Fils) / Filsstr.",
+                "lat": 48.6960762,
+                "lon": 9.7058081,
+                "capacity": 18
+            },
+            {
+                "station_id": "8327880a-c015-4021-bc3d-6abe298fdbcf",
+                "name": "Bhf. Nordbahnhof / Nordbahnhofstr.",
+                "lat": 48.803618,
+                "lon": 9.189735,
+                "capacity": 18
+            },
+            {
+                "station_id": "601d7417-263b-42f9-9d50-a88922522562",
+                "name": "Herdweg / Relenbergstraße",
+                "lat": 48.7867,
+                "lon": 9.16239,
+                "capacity": 24
+            },
+            {
+                "station_id": "ceb1c2e6-2c06-4252-8ea6-cdf59c9ada79",
+                "name": "U Bhf. Bubenbad / Gänsheidstraße",
+                "lat": 48.77384,
+                "lon": 9.194628,
+                "capacity": 12
+            },
+            {
+                "station_id": "1c919df4-aa3c-4d6e-83ca-3d6448be04ff",
+                "name": "Wagenburgstr. / Talstr.",
+                "lat": 48.781,
+                "lon": 9.20823,
+                "capacity": 20
+            },
+            {
+                "station_id": "59fcfab2-d974-4ae9-9ff2-9f9669c13a2e",
+                "name": "Seeblickweg / Mühlhäuser Str.",
+                "lat": 48.833,
+                "lon": 9.21736,
+                "capacity": 24
+            },
+            {
+                "station_id": "6a8e79a2-87de-4b84-a723-751b81f0981b",
+                "name": "Böblinger Straße / Gottlieb-Daimler-Schule",
+                "lat": 48.7028,
+                "lon": 9.00771,
+                "capacity": 18
+            },
+            {
+                "station_id": "9a88e181-38a3-4e28-846f-14618379368b",
+                "name": "Zuffenhausen / Emil-Schuler-Platz",
+                "lat": 48.83125,
+                "lon": 9.17448,
+                "capacity": 22
+            },
+            {
+                "station_id": "cae8c15e-6eb4-41a9-897a-e3af42e02e1f",
+                "name": "Kallenberg / Schwieberdinger Str.",
+                "lat": 48.84837,
+                "lon": 9.12696,
+                "capacity": 12
+            },
+            {
+                "station_id": "17fec0d5-3b21-4ee0-a667-faac08747f0e",
+                "name": "Degerloch / Löffelstr.",
+                "lat": 48.7487,
+                "lon": 9.16875,
+                "capacity": 28
+            },
+            {
+                "station_id": "722240ba-c9bf-4183-a605-66f71dfe62dc",
+                "name": "Eberhardstr. / Josef-Hirn-Platz",
+                "lat": 48.7732,
+                "lon": 9.17801,
+                "capacity": 32
+            },
+            {
+                "station_id": "a80ec9f6-e29a-4c3b-84ce-4cbf9f4b7f7f",
+                "name": "Breitscheidstr. / Bosch-Areal / Liederhalle",
+                "lat": 48.779099,
+                "lon": 9.167413,
+                "capacity": 56
+            },
+            {
+                "station_id": "cee3bfa0-6a1d-48ba-9ff6-780dddf386f1",
+                "name": "Neugereut / Marktplatz",
+                "lat": 48.831198,
+                "lon": 9.231461,
+                "capacity": 40
+            },
+            {
+                "station_id": "99ebfa3c-9b46-497f-8bdf-1865b43e77ca",
+                "name": "Neckartor / Neckarstr.",
+                "lat": 48.7865,
+                "lon": 9.19071,
+                "capacity": 42
+            },
+            {
+                "station_id": "d10ec286-1efe-4cc0-9ff0-ed8dfa6a2c2d",
+                "name": "Bahnhof Münchingen / Eisenbahnstraße",
+                "lat": 48.85517,
+                "lon": 9.09605,
+                "capacity": 12
+            },
+            {
+                "station_id": "a164798c-b406-48e4-acac-6488422a2d02",
+                "name": "Charlottenplatz / Dorotheenstr.",
+                "lat": 48.775664,
+                "lon": 9.182082,
+                "capacity": 40
+            },
+            {
+                "station_id": "dd8d43ee-6130-4eff-b366-ced4ba452a75",
+                "name": "Bhf. Wendlingen am Neckar / Gottlieb-Wolfer-Straße",
+                "lat": 48.67392,
+                "lon": 9.37449,
+                "capacity": 12
+            },
+            {
+                "station_id": "59830a25-c7c6-4c9b-af21-0b67c836ba8f",
+                "name": "Roche Ludwigsburg / Mörikestraße",
+                "lat": 48.89417,
+                "lon": 9.1591,
+                "capacity": 24
+            },
+            {
+                "station_id": "9b3152ef-8fb0-4db1-ba99-3ce2f60842df",
+                "name": "Hauptstraße / Heimsheimer Straße",
+                "lat": 48.81436,
+                "lon": 8.90818,
+                "capacity": 12
+            },
+            {
+                "station_id": "d6795c46-21d2-4fdc-94a0-797c2f1f6a4e",
+                "name": "Neckarpark / Morlockstr.",
+                "lat": 48.79809,
+                "lon": 9.22632,
+                "capacity": 18
+            },
+            {
+                "station_id": "15fadded-3d75-4d8c-a95f-5f42337080a1",
+                "name": "Königstr. / Kronenstr.",
+                "lat": 48.781907,
+                "lon": 9.18029,
+                "capacity": 38
+            },
+            {
+                "station_id": "050803fd-1d41-4b6f-895a-ac87beb21225",
+                "name": "Hochschule für Wirtschaft und Umwelt / Schelmenwasen",
+                "lat": 48.60922,
+                "lon": 9.35048,
+                "capacity": 12
+            },
+            {
+                "station_id": "a584dd91-9e6b-4c6e-8d3e-7423fc7a4145",
+                "name": "Erikastraße / Barbarossastraße",
+                "lat": 48.7932427,
+                "lon": 9.2580792,
+                "capacity": 12
+            },
+            {
+                "station_id": "61391db9-f82c-4701-950c-83c1f1c41935",
+                "name": "Regerstr. / Schumannstr.",
+                "lat": 48.778903,
+                "lon": 9.128929,
+                "capacity": 12
+            },
+            {
+                "station_id": "24a17db8-09a0-4b3f-be66-f6bf2db3a85e",
+                "name": "Hochschule Aalen / Rombacher Str.",
+                "lat": 48.839077,
+                "lon": 10.0723,
+                "capacity": 12
+            },
+            {
+                "station_id": "36fe6a30-d53e-4aa8-863d-e21e80fd1d0b",
+                "name": "Lindenstr. / Kirchstr.",
+                "lat": 48.8986,
+                "lon": 9.19012,
+                "capacity": 12
+            },
+            {
+                "station_id": "76eaa643-8c52-425e-85fa-70a72a2f4127",
+                "name": "Bhf. Böblingen / Talstr.",
+                "lat": 48.687344,
+                "lon": 9.005072,
+                "capacity": 24
+            },
+            {
+                "station_id": "862072c1-01d1-471a-b958-e96bd98e2048",
+                "name": "S Bhf. Österfeld / Paradiesstraße",
+                "lat": 48.7365525,
+                "lon": 9.1175065,
+                "capacity": 12
+            },
+            {
+                "station_id": "5780b1da-df04-4717-b098-5d405e5a0721",
+                "name": "Wilhelm-Geiger-Platz / Grazer Str.",
+                "lat": 48.811446,
+                "lon": 9.158698,
+                "capacity": 40
+            },
+            {
+                "station_id": "16505353-516e-4a5a-acc6-984e96fdde29",
+                "name": "Mineralbäder / Mineralbad Berg",
+                "lat": 48.797044,
+                "lon": 9.206252,
+                "capacity": 24
+            },
+            {
+                "station_id": "06c08ff1-9518-4227-8b4b-60624dc4a203",
+                "name": "Bhf. Esslingen am Neckar / Berliner Straße",
+                "lat": 48.7398,
+                "lon": 9.30018,
+                "capacity": 12
+            },
+            {
+                "station_id": "bcffa549-8fc8-412e-af29-221746a350f0",
+                "name": "S Bhf. Rutesheim / Wasserbachstr.",
+                "lat": 48.7902029,
+                "lon": 8.9596576,
+                "capacity": 12
+            },
+            {
+                "station_id": "ca41b63e-9046-442f-880e-d0e9186e507a",
+                "name": "Bhf. Ludwigsburg / Myliusstraße",
+                "lat": 48.89263,
+                "lon": 9.18615,
+                "capacity": 12
+            },
+            {
+                "station_id": "b4563645-30fa-4e26-9dd5-0b31d6cc148f",
+                "name": "Haltestelle Schöckingen Rose / Schloßstr.",
+                "lat": 48.8440567,
+                "lon": 9.0306449,
+                "capacity": 12
+            },
+            {
+                "station_id": "65927840-b3ea-4bdd-a164-1f783a35ead1",
+                "name": "Bhf. Mühlacker / Bahnhofstraße",
+                "lat": 48.9527,
+                "lon": 8.84585,
+                "capacity": 12
+            },
+            {
+                "station_id": "459e5a91-a155-4efe-8f3c-374dcaa79c53",
+                "name": "Bhf. Kornwestheim / Eastleighstraße",
+                "lat": 48.8622,
+                "lon": 9.18051,
+                "capacity": 12
+            },
+            {
+                "station_id": "09a90562-1a88-4fe3-9d7b-47ca6c184d26",
+                "name": "Scharnhauser Park Kreuzbrunnen / Niemöller Straße",
+                "lat": 48.71474,
+                "lon": 9.27338,
+                "capacity": 12
+            },
+            {
+                "station_id": "8bd0fe47-1209-4f74-9808-db422fa57a8f",
+                "name": "Pragsattel / Heilbronner Str.",
+                "lat": 48.810089,
+                "lon": 9.182408,
+                "capacity": 24
+            },
+            {
+                "station_id": "09b13e85-7bf5-4c84-998d-595e8c7e4276",
+                "name": "Taunusstraße / Rauher Kapf",
+                "lat": 48.66836,
+                "lon": 9.0449,
+                "capacity": 12
+            },
+            {
+                "station_id": "4c7d9e90-2600-4527-930b-1748329029a9",
+                "name": "Botnang / Kauffmannstr.",
+                "lat": 48.778453,
+                "lon": 9.12145,
+                "capacity": 40
+            },
+            {
+                "station_id": "2564f7d5-7684-44b9-bff0-b1025807059d",
+                "name": "Marktplatz Sindelflingen / Böblinger Straße",
+                "lat": 48.70784,
+                "lon": 9.00401,
+                "capacity": 12
+            },
+            {
+                "station_id": "471a19e1-8247-45bd-a151-7cd432abdd40",
+                "name": "Eingangsbereich Lettenäcker / Geschwister-Scholl-Straße",
+                "lat": 48.70785,
+                "lon": 9.4331,
+                "capacity": 12
+            },
+            {
+                "station_id": "f2def67a-91bd-4a15-8c48-55423698f6cd",
+                "name": "Schwarzwaldstraße / Schiffkopfstraße",
+                "lat": 48.741325,
+                "lon": 9.12662,
+                "capacity": 12
+            },
+            {
+                "station_id": "6f23377e-2744-45b1-ab03-9c5c3135b792",
+                "name": "S Bhf. Echterdingen / Hauptstr.",
+                "lat": 48.692361,
+                "lon": 9.167729,
+                "capacity": 24
+            },
+            {
+                "station_id": "c36ff39d-b2ec-4a18-9956-0cf8490d86d8",
+                "name": "Heutingsheimer Str. / Marco-Polo-Weg",
+                "lat": 48.842804,
+                "lon": 9.158696,
+                "capacity": 40
+            },
+            {
+                "station_id": "4db00f2d-cf38-48e7-9471-60226a758899",
+                "name": "Bhf. Hulb / Dornierstraße",
+                "lat": 48.67944,
+                "lon": 8.98199,
+                "capacity": 12
+            },
+            {
+                "station_id": "714932fd-4836-4a2a-9a19-07a6d694274c",
+                "name": "Grönerstr. / Schlieffenstr.",
+                "lat": 48.8928369,
+                "lon": 9.1651164,
+                "capacity": 12
+            },
+            {
+                "station_id": "0422f634-a624-4e53-8705-ff4864d942aa",
+                "name": "Bahnhof Bad Cannstatt / Kegelenstr.",
+                "lat": 48.80077,
+                "lon": 9.2174,
+                "capacity": 28
+            },
+            {
+                "station_id": "31d36732-f042-469b-9dad-a42b9bc2acfe",
+                "name": "Heumaden / Bildäckerstraße",
+                "lat": 48.745948,
+                "lon": 9.233266,
+                "capacity": 12
+            },
+            {
+                "station_id": "9010a89a-0885-4f54-b6f6-fe0e1bc8b3ed",
+                "name": "Böblinger Str. / Engelboldstr.",
+                "lat": 48.737761,
+                "lon": 9.127949,
+                "capacity": 40
+            },
+            {
+                "station_id": "3adff667-0846-4ceb-8065-088ecc15e976",
+                "name": "Bahnhof Korntal / Bahnhofsplatz",
+                "lat": 48.82684,
+                "lon": 9.12111,
+                "capacity": 40
+            },
+            {
+                "station_id": "1b3f279c-8f50-4b9d-ab38-6eeec0f1e89a",
+                "name": "Traifelbergplatz / Reutlinger Str.",
+                "lat": 48.741762,
+                "lon": 9.175351,
+                "capacity": 40
+            },
+            {
+                "station_id": "ec719b18-66f9-4bb1-8da1-26f45019bc23",
+                "name": "S Bhf. Weilimdorf / Ingersheimer Str.",
+                "lat": 48.822217,
+                "lon": 9.094739,
+                "capacity": 40
+            },
+            {
+                "station_id": "06ae2726-5268-4852-9d30-b639a620d25a",
+                "name": "Feuersee / Feuerseeplatz",
+                "lat": 48.7723,
+                "lon": 9.16437,
+                "capacity": 20
+            },
+            {
+                "station_id": "9febac46-2af2-4ad7-98cb-2e2d43af3f3a",
+                "name": "Oberbettringer Str. / Falkenbergstr.",
+                "lat": 48.7960248,
+                "lon": 9.8174228,
+                "capacity": 12
+            },
+            {
+                "station_id": "c9261959-c1b1-4562-83d8-7e38c8d45eb9",
+                "name": "S Bhf. Rommelshausen / Nelkenstr.",
+                "lat": 48.8155368,
+                "lon": 9.3188468,
+                "capacity": 12
+            },
+            {
+                "station_id": "7ed03eb5-229b-4265-b42e-d8940600457e",
+                "name": "Königstraße / Wilhelmsbau",
+                "lat": 48.773819,
+                "lon": 9.174584,
+                "capacity": 40
+            },
+            {
+                "station_id": "abe4156c-78e8-41d7-8bb2-23ee5fb99697",
+                "name": "Bebelstr. / Bürgerzentrum West",
+                "lat": 48.7752,
+                "lon": 9.15528,
+                "capacity": 38
+            },
+            {
+                "station_id": "1f743d3b-5cee-433d-adaa-5929409c399e",
+                "name": "Gerlingen / Wiesengässle",
+                "lat": 48.8005441,
+                "lon": 9.0645014,
+                "capacity": 24
+            },
+            {
+                "station_id": "0fb23d50-6a05-4197-8639-73763619c8a0",
+                "name": "Weilimdorf Löwen-Markt / Pforzheimer Str.",
+                "lat": 48.8137189,
+                "lon": 9.1123896,
+                "capacity": 24
+            },
+            {
+                "station_id": "47d04493-0e1e-48c2-9da1-b46b9e8045cc",
+                "name": "Mozartplätzle / Immenhofer Str.",
+                "lat": 48.766901,
+                "lon": 9.175385,
+                "capacity": 40
+            },
+            {
+                "station_id": "b7a4e384-baeb-4e64-aaf1-0073250cb74d",
+                "name": "S Bhf. Stuttgart Universität / Audimax",
+                "lat": 48.745141,
+                "lon": 9.1058192,
+                "capacity": 30
+            },
+            {
+                "station_id": "8edf5638-41f1-4acf-a8e0-b7a8a59eb17e",
+                "name": "Ortmitte Musberg / Am Kirchplatz",
+                "lat": 48.69196,
+                "lon": 9.12239,
+                "capacity": 12
+            },
+            {
+                "station_id": "db6896af-93d7-4781-8c37-f63147c866d9",
+                "name": "SAB / Flughafen Stuttgart",
+                "lat": 48.69155,
+                "lon": 9.19644,
+                "capacity": 12
+            },
+            {
+                "station_id": "e37c3acb-32c6-41f9-9272-52135fc06118",
+                "name": "Wilhelmsplatz / König-Karl-Str.",
+                "lat": 48.802517,
+                "lon": 9.215702,
+                "capacity": 24
+            },
+            {
+                "station_id": "f6bec9fb-a3b5-449f-b950-b4a4389743c7",
+                "name": "Gerlingen Breitwiesen / Breitwiesenstr.",
+                "lat": 48.802329,
+                "lon": 9.08254,
+                "capacity": 12
+            },
+            {
+                "station_id": "7046d131-47fd-40bd-ba63-f52590d2ee8f",
+                "name": "Hohenzollernstraße / Carl-Schaefer-Schule",
+                "lat": 48.88511,
+                "lon": 9.19066,
+                "capacity": 12
+            },
+            {
+                "station_id": "770345c8-e903-4a6f-939d-f85705671972",
+                "name": "Theodor-Heuss-Str. / Friedrichstr.",
+                "lat": 48.779433,
+                "lon": 9.176717,
+                "capacity": 38
+            },
+            {
+                "station_id": "69c4ce18-caa3-4a17-b10d-4cdbae7b7194",
+                "name": "S Bhf Leonberg / Bahnhofstr.",
+                "lat": 48.7993996,
+                "lon": 9.0036337,
+                "capacity": 24
+            },
+            {
+                "station_id": "b4848a1a-a5d1-40df-8abe-078527a17e73",
+                "name": "Stadtteilzentrum Spitzholz / Feldbergstraße",
+                "lat": 48.72543,
+                "lon": 9.00848,
+                "capacity": 12
+            },
+            {
+                "station_id": "d3c7d57f-0632-4d68-b115-99f3bbdd78ae",
+                "name": "Klinikum Esslingen / Hirschlandstraße",
+                "lat": 48.73728,
+                "lon": 9.328,
+                "capacity": 12
+            },
+            {
+                "station_id": "5641c52f-249e-404c-b28e-475d530e6f5a",
+                "name": "Freibad Rosental / Rosentalstraße",
+                "lat": 48.728611,
+                "lon": 9.100512,
+                "capacity": 40
+            },
+            {
+                "station_id": "203b0a59-27ea-42db-a822-553bcfd48bd6",
+                "name": "Freibergstr. / Neckartalstr.",
+                "lat": 48.823995,
+                "lon": 9.222147,
+                "capacity": 40
+            },
+            {
+                "station_id": "79aac601-28fb-422e-8d31-fd6d298d26a6",
+                "name": "Münchinger Str. / Am Rathaus",
+                "lat": 48.82678,
+                "lon": 9.06732,
+                "capacity": 12
+            },
+            {
+                "station_id": "e375c577-ca9b-4f3d-b052-582f4eeeb0a8",
+                "name": "Landratsamt Ludwigsburg / Hindenburgstraße",
+                "lat": 48.89096,
+                "lon": 9.20105,
+                "capacity": 12
+            },
+            {
+                "station_id": "6af54dc2-f7d4-4289-ac7e-2bb8a7caec61",
+                "name": "Königstr. / Arnulf-Klett-Platz",
+                "lat": 48.782572,
+                "lon": 9.18189,
+                "capacity": 80
+            },
+            {
+                "station_id": "ac7c6a5f-75ca-46d1-a477-98fccdb68352",
+                "name": "Bahnhof Winnenden / Bahnhofstraße",
+                "lat": 48.87944,
+                "lon": 9.39263,
+                "capacity": 12
+            },
+            {
+                "station_id": "b89f5a48-3ef3-4788-8bfc-70d5cded3b00",
+                "name": "Tübinger Str. / Gerber",
+                "lat": 48.770695,
+                "lon": 9.173042,
+                "capacity": 30
+            },
+            {
+                "station_id": "1e47862a-5a72-46e8-b6e3-12aaa2f66c4e",
+                "name": "Mobility Hub / S-Bhf. Vaihingen Hauptsausgang",
+                "lat": 48.72627,
+                "lon": 9.1121,
+                "capacity": 40
+            },
+            {
+                "station_id": "fa83ad5d-2183-4a3c-ad11-ba076aeffe6c",
+                "name": "Bhf. Holzgerlingen / Bahnhofsstraße",
+                "lat": 48.63844,
+                "lon": 9.0071,
+                "capacity": 24
+            },
+            {
+                "station_id": "e5df1e0e-4208-4289-9a53-8bd7dfeb47f4",
+                "name": "Bhf. Kirchheim unter Teck / Eugen-Gerstenmaier-Platz",
+                "lat": 48.64447,
+                "lon": 9.44401,
+                "capacity": 12
+            },
+            {
+                "station_id": "eb811e3f-0ff3-46a1-a43d-683b64eea5d3",
+                "name": "Unteres Tor Bietigheim / Holzgartenstraße",
+                "lat": 48.95974,
+                "lon": 9.12918,
+                "capacity": 12
+            },
+            {
+                "station_id": "cedfec57-8188-4344-a036-c1ab405c4b1f",
+                "name": "Ortsmitte Hochberg / Hauptstraße",
+                "lat": 48.88737,
+                "lon": 9.28047,
+                "capacity": 12
+            },
+            {
+                "station_id": "21247a6f-43af-44b0-ae86-e6d4bd7b4a43",
+                "name": "Hbf. Aalen / Bahnhofsplatz",
+                "lat": 48.841309,
+                "lon": 10.095663,
+                "capacity": 24
+            },
+            {
+                "station_id": "f384359e-349d-47cf-aec3-031f20b8e0a0",
+                "name": "Pattonville-Mitte / John-F.-Kennedy-Allee",
+                "lat": 48.87265,
+                "lon": 9.22324,
+                "capacity": 12
+            },
+            {
+                "station_id": "b599f6d1-c06b-44af-b609-9a17c67a0961",
+                "name": "Bhf. Lindpaintner Straße / Beethovenstraße",
+                "lat": 48.773834,
+                "lon": 9.134222,
+                "capacity": 40
+            },
+            {
+                "station_id": "8058422d-03aa-4b49-b285-692466991af7",
+                "name": "Stresemannstr. / Am Kochenhof",
+                "lat": 48.799302,
+                "lon": 9.174107,
+                "capacity": 22
+            },
+            {
+                "station_id": "e73ff873-8f43-41b4-868a-2d3e00f2cfbb",
+                "name": "Grönerstr. / Gänsfußallee",
+                "lat": 48.893014,
+                "lon": 9.1728728,
+                "capacity": 12
+            },
+            {
+                "station_id": "3c8a06dc-695a-4550-acdd-79a5a537cfb2",
+                "name": "LimesThermen Aalen / Osterbucher Steige",
+                "lat": 48.819665,
+                "lon": 10.076904,
+                "capacity": 12
+            },
+            {
+                "station_id": "8fd25547-2208-4a77-9b27-17d436b67349",
+                "name": "U Bhf. Pfostenwäldle / Eifelstraße /",
+                "lat": 48.8123,
+                "lon": 9.13532,
+                "capacity": 8
+            },
+            {
+                "station_id": "17f9aa11-b86d-4a7e-bdf4-258976ec1565",
+                "name": "Panoramastr. / Solitudestr.",
+                "lat": 48.7885058,
+                "lon": 9.0666847,
+                "capacity": 12
+            },
+            {
+                "station_id": "46a0181f-75ce-45ea-a9b5-0a7f7bd1057e",
+                "name": "Mensa / Emil-Wolff-Straße",
+                "lat": 48.711576,
+                "lon": 9.211388,
+                "capacity": 40
+            },
+            {
+                "station_id": "6d69814c-80df-4390-85b7-cf8e3a4ffb67",
+                "name": "Bhf. Heimerdingen / Feuerbacher Str.",
+                "lat": 48.8515021,
+                "lon": 8.9857922,
+                "capacity": 12
+            },
+            {
+                "station_id": "b9302a0a-95cf-4c52-a951-b5373d0145ff",
+                "name": "Kino Traumpalast / Neue Ramtelstraße",
+                "lat": 48.78281,
+                "lon": 9.01605,
+                "capacity": 12
+            },
+            {
+                "station_id": "8daf1e69-e6f5-4449-b562-cd5cb87f16ed",
+                "name": "S Bhf. Freiberg (Neckar) / Bahnhofstraße",
+                "lat": 48.930021,
+                "lon": 9.19708,
+                "capacity": 12
+            },
+            {
+                "station_id": "8446166e-2986-4baf-83c9-3e2f6a01393b",
+                "name": "Vaihingen / Hauptstr.",
+                "lat": 48.7297,
+                "lon": 9.111688,
+                "capacity": 24
+            },
+            {
+                "station_id": "c070e40c-98f6-45d6-9543-90ceceef63af",
+                "name": "Bahnhof Ludwigsburg / Brenzstr.",
+                "lat": 48.8922298,
+                "lon": 9.1835363,
+                "capacity": 24
+            },
+            {
+                "station_id": "7f35f3c4-b6f9-4ec6-9d8d-5b65f282b5a6",
+                "name": "S Bhf. Zuffenhausen / Am Bahnhof",
+                "lat": 48.829833,
+                "lon": 9.166178,
+                "capacity": 40
+            },
+            {
+                "station_id": "2b9f161e-f16c-4aeb-9ef8-500ac417f50e",
+                "name": "Alter Postplatz / Am Stadtgraben",
+                "lat": 48.83065,
+                "lon": 9.31507,
+                "capacity": 12
+            },
+            {
+                "station_id": "d6e3d3ae-ccb5-4120-91ae-f7870abd111c",
+                "name": "Schloss Solitude",
+                "lat": 48.78625,
+                "lon": 9.08565,
+                "capacity": 6
+            },
+            {
+                "station_id": "6530dafb-9a40-443f-a956-9bbad77f4859",
+                "name": "Gehrenwaldstraße / Gögelbachstraße",
+                "lat": 48.7861847,
+                "lon": 9.2587294,
+                "capacity": 40
+            },
+            {
+                "station_id": "aed00348-73b0-465f-9d88-797d27be376a",
+                "name": "S-Bahnhof Oberaichen / Rohrer Str.",
+                "lat": 48.70515,
+                "lon": 9.12689,
+                "capacity": 18
+            },
+            {
+                "station_id": "aec4fdcc-3deb-4675-94c9-ffa9685cd483",
+                "name": "Messe Stuttgart / Eingang West",
+                "lat": 48.69294,
+                "lon": 9.18208,
+                "capacity": 12
+            },
+            {
+                "station_id": "40939f89-37e3-45a0-8fb9-032060927e95",
+                "name": "Eisenbahnstr. / Robert-Bosch-Str.",
+                "lat": 48.71823,
+                "lon": 9.40456,
+                "capacity": 6
+            },
+            {
+                "station_id": "ad6e54d1-0ae4-4b84-bb91-7fde3ad43f27",
+                "name": "Klosterstr. / Bachstr.",
+                "lat": 48.790174,
+                "lon": 9.341087,
+                "capacity": 12
+            },
+            {
+                "station_id": "71fd6e0b-7e07-4702-a538-4c31eda06e9b",
+                "name": "Scharnhausen Rathaus / Nellinger Straße",
+                "lat": 48.70801,
+                "lon": 9.2637,
+                "capacity": 12
+            },
+            {
+                "station_id": "709f8e07-e869-4651-8040-0bcbc6cd5309",
+                "name": "Schwerzstraße / Kirchenallee",
+                "lat": 48.712498,
+                "lon": 9.216564,
+                "capacity": 40
+            },
+            {
+                "station_id": "2e6e9275-cf8f-4af7-a6ae-dd26d1108f47",
+                "name": "Rotebühlplatz / Rotebühlstr.",
+                "lat": 48.774812,
+                "lon": 9.171956,
+                "capacity": 40
+            },
+            {
+                "station_id": "79a66adb-7650-4d21-9bbf-4049844dab10",
+                "name": "Bhf. Schwäbisch Gmünd / Bahnhofsplatz",
+                "lat": 48.800594,
+                "lon": 9.787698,
+                "capacity": 18
+            },
+            {
+                "station_id": "9e24a007-4544-413a-a225-115ed4980cf0",
+                "name": "Bürgertreff Hausen / Beim Fasanengarten",
+                "lat": 48.8165491,
+                "lon": 9.0854815,
+                "capacity": 40
+            },
+            {
+                "station_id": "10629d06-444d-4532-98f7-9ba4b3e5e014",
+                "name": "Decathlon Plochingen / Filsallee",
+                "lat": 48.70251,
+                "lon": 9.43861,
+                "capacity": 12
+            },
+            {
+                "station_id": "56338fe3-48e5-4fc3-820e-af7c9d7b573f",
+                "name": "Rötepark / Heerstraße",
+                "lat": 48.81945,
+                "lon": 9.30529,
+                "capacity": 12
+            },
+            {
+                "station_id": "d9c75904-17ff-4863-b62f-24ecd6b100e1",
+                "name": "Marienplatz / Zahnradbahn",
+                "lat": 48.764532,
+                "lon": 9.168008,
+                "capacity": 60
+            },
+            {
+                "station_id": "58504bd5-d8ff-4237-ab4a-72e592c3961f",
+                "name": "Südheimer Platz / Böblinger Str.",
+                "lat": 48.7566,
+                "lon": 9.14439,
+                "capacity": 36
+            },
+            {
+                "station_id": "2263b695-db35-4bbf-b70a-032920fadf3f",
+                "name": "Klinikum Ludwigsburg / Posilipostr.",
+                "lat": 48.89821,
+                "lon": 9.20362,
+                "capacity": 12
+            },
+            {
+                "station_id": "77ff3d11-4cff-4468-a056-48ca3b220176",
+                "name": "Berufliche Schulen / Steinbeis-Str.",
+                "lat": 48.85169,
+                "lon": 10.09224,
+                "capacity": 12
+            },
+            {
+                "station_id": "2cae0a20-cd79-4f22-bc8d-649c62e03a47",
+                "name": "Ortsmitte Bissingen / Bahnhofstraße",
+                "lat": 48.94695,
+                "lon": 9.10076,
+                "capacity": 12
+            },
+            {
+                "station_id": "0d01a7e6-d0c8-40df-92aa-682e0a0b966f",
+                "name": "Mo 26 / Motorstraße",
+                "lat": 48.82705,
+                "lon": 9.10435,
+                "capacity": 40
+            },
+            {
+                "station_id": "bf84b26e-515e-4a58-8531-30ea8a0fc607",
+                "name": "Plieningen / Wollgrasweg",
+                "lat": 48.710314,
+                "lon": 9.202773,
+                "capacity": 30
+            },
+            {
+                "station_id": "be7974dd-71b8-452f-bc50-9fdbfb5d58b7",
+                "name": "S Bhf. Sommerrain / Sommerrainstraße",
+                "lat": 48.815088,
+                "lon": 9.246768,
+                "capacity": 12
+            },
+            {
+                "station_id": "5c55c2b7-7471-4412-9879-588c523d7232",
+                "name": "S Bhf. Vaihingen / Industriestraße",
+                "lat": 48.725588,
+                "lon": 9.113667,
+                "capacity": 18
+            },
+            {
+                "station_id": "1710ed46-9a49-4509-987f-8344cf0aefa4",
+                "name": "Bhf. Herrenberg / Kalkofenstraße",
+                "lat": 48.59449,
+                "lon": 8.86208,
+                "capacity": 24
+            },
+            {
+                "station_id": "3dfd432b-a18f-4398-bd30-c9f677a514ea",
+                "name": "Bhf. Göppingen / Bahnhofstraße",
+                "lat": 48.70055,
+                "lon": 9.65205,
+                "capacity": 12
+            },
+            {
+                "station_id": "b600c96c-9e7b-40f1-afdf-09a96ad87f82",
+                "name": "Panoramastraße / Nachtigallenweg",
+                "lat": 48.67875,
+                "lon": 9.03307,
+                "capacity": 12
+            },
+            {
+                "station_id": "ed029bdd-542d-46a4-8d7a-ecebaf5d07f2",
+                "name": "Löwenplatz Leutenbach / Rathausplatz",
+                "lat": 48.88784,
+                "lon": 9.3935,
+                "capacity": 40
+            },
+            {
+                "station_id": "be796eb3-49af-494c-b3f0-dc1f0132eb7d",
+                "name": "Kaiserstraße / Otto-Hahn-Gymnasium",
+                "lat": 48.89775,
+                "lon": 9.17409,
+                "capacity": 12
+            },
+            {
+                "station_id": "cedb7a15-89be-4b45-b704-30522e4be589",
+                "name": "Rathaus / Marktstr.",
+                "lat": 48.7749,
+                "lon": 9.17923,
+                "capacity": 28
+            },
+            {
+                "station_id": "948795c6-d000-4184-ae02-eb26f4955aa1",
+                "name": "Kursaal / Mergentheimer Str.",
+                "lat": 48.808954,
+                "lon": 9.222371,
+                "capacity": 40
+            },
+            {
+                "station_id": "ca6da06b-704e-42c0-812a-5d64c3193f7e",
+                "name": "Bhf. Obertürkheim / Göppinger Str.",
+                "lat": 48.761958,
+                "lon": 9.268605,
+                "capacity": 18
+            },
+            {
+                "station_id": "ccbdaf0c-e7db-44f7-9775-1a6ec450c4cd",
+                "name": "Europaplatz / Fasanenhof",
+                "lat": 48.711974,
+                "lon": 9.159799,
+                "capacity": 18
+            },
+            {
+                "station_id": "64b40ab7-8478-4acf-8cf9-4f4456599746",
+                "name": "Bhf. Plochingen / Eisenbahnstraße",
+                "lat": 48.71414,
+                "lon": 9.41077,
+                "capacity": 40
+            },
+            {
+                "station_id": "d692d888-eed5-4e45-b8b7-4b680354b38c",
+                "name": "Welfenstraße / 0",
+                "lat": 48.71926,
+                "lon": 9.20802,
+                "capacity": 40
+            },
+            {
+                "station_id": "9968d51b-0412-43ed-a5d8-b8e02ed8e854",
+                "name": "Am Sonnenhügel / Junges Wohnen",
+                "lat": 48.7928817,
+                "lon": 9.8222955,
+                "capacity": 12
+            },
+            {
+                "station_id": "b4a9dbbb-bb4b-4c01-8807-bf422825be95",
+                "name": "Bosch Health Campus / Haupteingang",
+                "lat": 48.8152,
+                "lon": 9.18627,
+                "capacity": 40
+            },
+            {
+                "station_id": "2a96d3bf-49e0-414f-9f4d-8e58f42d9bfd",
+                "name": "Institut für Sport und Bewegungswissenschaft / Allmandring",
+                "lat": 48.741717,
+                "lon": 9.0952936,
+                "capacity": 40
+            },
+            {
+                "station_id": "2df8d45f-de24-412b-9adc-4e0e31e1a185",
+                "name": "Rotebühlstraße / Reinsburgstraße / 0",
+                "lat": 48.76881,
+                "lon": 9.15084,
+                "capacity": 40
+            },
+            {
+                "station_id": "72710516-62ab-4260-b15d-2acdf6742eab",
+                "name": "Teckplatz / Paul-Gerhardt-Kirche",
+                "lat": 48.71572,
+                "lon": 9.43144,
+                "capacity": 12
+            },
+            {
+                "station_id": "ee404172-6acc-4b6a-8acd-fbd9c1612252",
+                "name": "Bhf. Wernau am Neckar / Bahnhofsvorplatz",
+                "lat": 48.6941,
+                "lon": 9.41327,
+                "capacity": 12
+            },
+            {
+                "station_id": "c0d4a682-466a-43c2-a912-c07d432e62de",
+                "name": "Höhenfreibad Killesberg / Lenbachstraße / 0",
+                "lat": 48.80937,
+                "lon": 9.17012,
+                "capacity": 40
+            },
+            {
+                "station_id": "3cc5d094-7043-49c4-97e8-0bd0002962c9",
+                "name": "S Bhf. Rohr / Osterbronnstr.",
+                "lat": 48.718116,
+                "lon": 9.108503,
+                "capacity": 40
+            },
+            {
+                "station_id": "b45affc6-3271-4a96-ab6e-b9bf5d7eb2a9",
+                "name": "Engelboldtstraße / Ruggerstraße",
+                "lat": 48.74082,
+                "lon": 9.13342,
+                "capacity": 40
+            },
+            {
+                "station_id": "0a557579-b48b-4ea1-8833-791537ffaa3d",
+                "name": "Sillenbuch / Schemppstr.",
+                "lat": 48.7417,
+                "lon": 9.21826,
+                "capacity": 12
+            },
+            {
+                "station_id": "7d8140d3-dace-4cdc-a76f-e680d8078644",
+                "name": "Möhringen / Filderbahnplatz",
+                "lat": 48.7303,
+                "lon": 9.14626,
+                "capacity": 18
+            },
+            {
+                "station_id": "7a31b31e-f870-487e-9224-df936915cbcd",
+                "name": "Asperger Str. / Möglinger Str.",
+                "lat": 48.849542,
+                "lon": 9.155967,
+                "capacity": 18
+            },
+            {
+                "station_id": "b207ab7a-f23d-40f8-aa26-5d02077fc6f9",
+                "name": "Berufliches Schulzentrum / Römerhügelweg",
+                "lat": 48.88466,
+                "lon": 9.17206,
+                "capacity": 12
+            },
+            {
+                "station_id": "d11d72d5-6c21-494a-975b-aab02704e0ce",
+                "name": "DHBW Fakultät Technik / Hoppenlaustraße",
+                "lat": 48.78225,
+                "lon": 9.16682,
+                "capacity": 40
+            },
+            {
+                "station_id": "15db6285-d0ea-4e8c-abb6-b577ef16939f",
+                "name": "Ernst-Reuter-Platz / Engelbergstr.",
+                "lat": 48.8029,
+                "lon": 9.09096,
+                "capacity": 18
+            },
+            {
+                "station_id": "4686c00a-dc11-4d74-88b3-6b328e3d97ad",
+                "name": "Feldbergstraße / Belchenstraße",
+                "lat": 48.68448,
+                "lon": 9.03062,
+                "capacity": 12
+            },
+            {
+                "station_id": "c707caa3-8879-4cb8-b6f3-92bd285e0fcd",
+                "name": "Institut für Luft- und Raumfahrttechnik / Pfaffenwaldring",
+                "lat": 48.7494755,
+                "lon": 9.104597,
+                "capacity": 40
+            },
+            {
+                "station_id": "00ffb71d-35f0-4aec-9c87-551d36eb8053",
+                "name": "Bhf. Sindelfingen / Hans-Martin-Schleyer-Straße",
+                "lat": 48.70417,
+                "lon": 8.99913,
+                "capacity": 18
+            },
+            {
+                "station_id": "2ccf7981-4318-45b6-97ac-ac03beaf8f43",
+                "name": "Leo-Center / Leonberger Str.",
+                "lat": 48.7956198,
+                "lon": 9.010712,
+                "capacity": 12
+            },
+            {
+                "station_id": "6d51233c-0b26-4851-845f-75bd75c87e41",
+                "name": "Schwabstr. / Rotebühlstr.",
+                "lat": 48.7708,
+                "lon": 9.15868,
+                "capacity": 38
+            },
+            {
+                "station_id": "f48e4887-3626-47da-9bf9-0db82285c199",
+                "name": "Stettener Hauptstraße / Höfer Äcker",
+                "lat": 48.67116,
+                "lon": 9.17445,
+                "capacity": 12
+            },
+            {
+                "station_id": "de6545a4-a1d3-44bd-96eb-8554f3f24528",
+                "name": "Johann-Sebastian-Bach-Platz / Hasenbergstraße",
+                "lat": 48.7691876,
+                "lon": 9.1628899,
+                "capacity": 40
+            },
+            {
+                "station_id": "c526c02f-77c8-433c-80dd-8b7e53025eb7",
+                "name": "Jahnstraße / Strohgäustraße",
+                "lat": 48.80571,
+                "lon": 9.01633,
+                "capacity": 40
+            },
+            {
+                "station_id": "95ab4910-3a05-4aa2-9b12-ed97f5962e8e",
+                "name": "Filderhauptstr. / Halfgarten",
+                "lat": 48.701048,
+                "lon": 9.211143,
+                "capacity": 40
+            },
+            {
+                "station_id": "1a7cf219-035b-46c0-896b-76293db452ae",
+                "name": "Ostendplatz / Landhausstr.",
+                "lat": 48.78588,
+                "lon": 9.207989,
+                "capacity": 22
+            },
+            {
+                "station_id": "8990fe5d-f437-4508-a58b-059660407c08",
+                "name": "Gewerbegebiet Leo-West / Am Längenbühl",
+                "lat": 48.7906,
+                "lon": 8.98037,
+                "capacity": 40
+            },
+            {
+                "station_id": "6c5e4e63-d1a0-4b42-9093-605a461c68b5",
+                "name": "Bhf. Wasseralfingen / Schlegelstr.",
+                "lat": 48.85842,
+                "lon": 10.10325,
+                "capacity": 12
+            },
+            {
+                "station_id": "1377aa4c-de97-4a97-8231-2b290efb2e35",
+                "name": "Wangener Marktplatz / Warthäuser Str.",
+                "lat": 48.771379,
+                "lon": 9.245176,
+                "capacity": 40
+            },
+            {
+                "station_id": "260c83dc-553b-45d9-a928-96201e8c9e09",
+                "name": "Degerloch / Fernsehturm",
+                "lat": 48.7554,
+                "lon": 9.18909,
+                "capacity": 24
+            },
+            {
+                "station_id": "3af91a0a-5912-4c9c-b2d1-9fe20e147247",
+                "name": "Bhf. Maichingen / Schlüsseläckerplatz",
+                "lat": 48.7222,
+                "lon": 8.97003,
+                "capacity": 12
+            },
+            {
+                "station_id": "3d3a5214-c0d2-4aac-ad43-4340ab30a4d2",
+                "name": "Bhf. Ditzingen / Südseite",
+                "lat": 48.8234616,
+                "lon": 9.0667931,
+                "capacity": 24
+            },
+            {
+                "station_id": "f22ac889-07fc-4ac0-8943-fe599df77058",
+                "name": "Schulstr. / Hegelstr.",
+                "lat": 48.8380025,
+                "lon": 9.0394602,
+                "capacity": 12
+            },
+            {
+                "station_id": "c2270b55-0fec-44d5-8aef-fbe5bd6f63b5",
+                "name": "Bhf. Schwieberdingen / Bahnhofstraße",
+                "lat": 48.87062,
+                "lon": 9.07135,
+                "capacity": 24
+            },
+            {
+                "station_id": "6616abb8-24ef-46ef-94bd-d2262e32ba4e",
+                "name": "Mercedes-Benz-Museum / Mercedesstr.",
+                "lat": 48.7889,
+                "lon": 9.23538,
+                "capacity": 28
+            },
+            {
+                "station_id": "fbb4be4b-f038-447e-bdcd-e43e28da116f",
+                "name": "Erwin-Schoettle-Platz / Matthäuskirche",
+                "lat": 48.7621,
+                "lon": 9.16003,
+                "capacity": 32
+            },
+            {
+                "station_id": "487dcd1b-39ad-4c4a-9f4c-d5fb6b8f7701",
+                "name": "Paul-Gerhardt-Platz / Forststr.",
+                "lat": 48.7755,
+                "lon": 9.14684,
+                "capacity": 34
+            },
+            {
+                "station_id": "418edec4-5c38-4906-8462-44c9f5ddf958",
+                "name": "Bürgerhaus Alte Schule / Tiefenbachstraße",
+                "lat": 48.7560466,
+                "lon": 9.2290793,
+                "capacity": 40
+            },
+            {
+                "station_id": "b0d82486-8db6-4019-92e6-9f088b399663",
+                "name": "Ruppmannstraße / DB Fahrradservicecenter",
+                "lat": 48.72823,
+                "lon": 9.11798,
+                "capacity": 40
+            },
+            {
+                "station_id": "8511b20c-3161-4b38-8b34-def8020c47e2",
+                "name": "Universität / Keplerstr.",
+                "lat": 48.7824,
+                "lon": 9.17539,
+                "capacity": 26
+            },
+            {
+                "station_id": "8b390267-2fe7-45a3-ac40-df9debed404f",
+                "name": "Uni Hohenheim / Mobilitätsstation",
+                "lat": 48.71228,
+                "lon": 9.20973,
+                "capacity": 24
+            },
+            {
+                "station_id": "e7620aeb-0be9-4c98-9c83-5c753dd65118",
+                "name": "Bhf. Filderstadt / Filderbahnstr.",
+                "lat": 48.67683,
+                "lon": 9.21707,
+                "capacity": 24
+            },
+            {
+                "station_id": "2f94335b-24fc-4b87-8323-e64978133dea",
+                "name": "Gablenberger Hauptstr. / Pfarrer-Pfeiffer-Weg",
+                "lat": 48.776815,
+                "lon": 9.205386,
+                "capacity": 40
+            },
+            {
+                "station_id": "a35cf6ee-dc8a-489e-abc3-a3d8431f56e0",
+                "name": "Böheimstr. / Burgstallstr.",
+                "lat": 48.75937,
+                "lon": 9.15393,
+                "capacity": 28
+            },
+            {
+                "station_id": "a09e2526-5a07-48d1-a781-1d66ff0985a6",
+                "name": "Stadionstraße / Esslinger Str.",
+                "lat": 48.69447,
+                "lon": 9.17467,
+                "capacity": 12
+            },
+            {
+                "station_id": "8de3f9db-c508-4627-b3b9-cb2e162cde5a",
+                "name": "Marktplatz / Mohrengäßle",
+                "lat": 48.8009131,
+                "lon": 9.7970499,
+                "capacity": 12
+            },
+            {
+                "station_id": "ffeb8092-8a9e-4fcc-9c7b-27511f176711",
+                "name": "Korber Höhe / Salierstraße",
+                "lat": 48.8383,
+                "lon": 9.33117,
+                "capacity": 12
+            },
+            {
+                "station_id": "87107926-2027-4eb0-abca-d688bf5891b1",
+                "name": "Helfferichstraße / Parlerstraße",
+                "lat": 48.790021,
+                "lon": 9.170537,
+                "capacity": 18
+            },
+            {
+                "station_id": "200ff910-3e13-4492-9d8c-708d0b55f0ed",
+                "name": "Bhf. Sachsenheim / Bahnhofstr.",
+                "lat": 48.9615995,
+                "lon": 9.0648432,
+                "capacity": 12
+            }
+        ]
+    }
+}
