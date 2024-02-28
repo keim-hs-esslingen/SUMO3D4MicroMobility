@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="e_bicycle" length='1.6' width='0.65' height='1.7' minGap='0.5' accel='1.2' decel='3' emergencyDecel='7' maxSpeed='13.89' desiredMaxSpeed='5.56' emissionClass='Energy/unknown' vClass='bicycle' speedDev='0.1' color="1,1,1">
+    <!-- <vType id="e_bicycle" length='1.6' width='0.65' height='1.7' minGap='0.5' accel='1.2' decel='3' emergencyDecel='7' maxSpeed='13.89' desiredMaxSpeed='5.56' vClass='bicycle' speedDev='0.1' color="1,1,1"> -->
+        <param key="has.battery.device" value="true"/>
+        <param key="device.battery.capacity" value="400"/>
+        <param key="maximumPower" value="250"/>
+        <param key="vehicleMass" value="100"/>
+        <param key="frontSurfaceArea" value="0.5"/>
+        <param key="airDragCoefficient" value="1.1"/>
+        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="radialDragCoefficient" value="0.1"/>
+        <param key="rollDragCoefficient" value="0.01"/>
+        <param key="constantPowerIntake" value="100"/>
+        <param key="propulsionEfficiency" value="0.98"/>
+        <param key="recuperationEfficiency" value="0"/>
+        <param key="stoppingThreshold" value="0.1"/>
+    </vType>
+
+    <trip id="test_ebike" type="e_bicycle" depart="0.00" departLane="best" from="4821895#1" to="-96266013#0"/>
+
+</routes>
