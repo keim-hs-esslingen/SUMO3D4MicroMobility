@@ -16,7 +16,7 @@ def get_options(cmd_args=None):
     parser = argparse.ArgumentParser(
         prog="convertGBFSbikeStations2SUMO",
         usage="%(prog)s [options]",
-        description="Extract Parking Areas from OSM.",
+        description="Extract Bikesharing Stations from GBFS-Data",
     )
     parser.add_argument(
         "--stations", type=str, dest="gbfsStationsJSON", required=True, help="JSON File containing the Bikesharing Stations from GBFS"
