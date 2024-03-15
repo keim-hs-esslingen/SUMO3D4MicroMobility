@@ -1,0 +1,11 @@
+lxml
+sumolib
+requests
+numpy
+matplotlib
+pyproj
+pandas
+geopandas
+contextily
+shapely
+pathlib

@@ -2,7 +2,27 @@
 A tool-set of Python-scripts to add topological map information to existing Traffic Simulation Models for SUMO (Simulation of Urban Mobility) Web-Link: https://eclipse.dev/sumo/  
 The Focus of this tool-set is to add topological map information to Traffic-Simulation Models in order to consider micro-mobility vehicles (such as bikes, e-bikes, e-mopeds and e-scooters) in hilly and steep terrain. 
 
-## Usage:
+## Reqirements to use the SUMO3D4MicroMobility tool-set:
+
+- Python 3.11.5 or higher
+- Eclipse SUMO Version 1.19.0 or higher (Download from https://www.eclipse.org/sumo )
+- The environment varibale SUMO_HOME must be set proberly (e.g. export SUMO_HOME="/usr/share/sumo")
+
+### Clone the SUMO3D4MicroMobility Repo:
+
+```bash
+git clone https://github.com/keim-hs-esslingen/SUMO3D4MicroMobility
+cd SUMO3D4MicroMobility
+```
+
+### Some Python Packages need to be installed:
+
+```bash
+sudo pip3 install -r requirements.txt
+```
+Hint: the requirements.txt file may not be complete, so maybe you have to install further packages if error messages arise
+
+## Usage of the SUMO3D4MicroMobility tool-set :
 
 ### Step 1: add topological map information to existing 2D SUMO-Models
 ```bash
