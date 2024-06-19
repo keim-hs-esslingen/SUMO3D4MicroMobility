@@ -1,6 +1,7 @@
 import requests
 import json
 import sumolib
+import time
 
 class Edge:
     def __init__(self, _id, _shape):
@@ -125,6 +126,9 @@ class EdgesContainer:
 
             #print("start_index", start_index)
             #print("end_index", end_index)
+
+            # Added due to the new API limitations
+            time.sleep(1)
 
             data = self.getElevationsForLatLons(start_index,end_index)
             print(end_index+1)
