@@ -6,10 +6,11 @@
         <param key="has.battery.device" value="true"/>
         <param key="device.battery.capacity" value="400"/>
         <param key="maximumPower" value="250"/>
-        <param key="vehicleMass" value="100"/>
+        <param key="mass" value="100"/>
+        <param key="loading" value="75"/> 
         <param key="frontSurfaceArea" value="0.5"/>
         <param key="airDragCoefficient" value="1.1"/>
-        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="rotatingMass" value="0.01"/>
         <param key="radialDragCoefficient" value="0.1"/>
         <param key="rollDragCoefficient" value="0.01"/>
         <param key="constantPowerIntake" value="100"/>
