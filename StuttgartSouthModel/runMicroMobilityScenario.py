@@ -15,7 +15,7 @@ traci.vehicle.setParameter(str("test_ebike"),"device.battery.actualBatteryCapaci
 while traci.simulation.getMinExpectedNumber() > 0:
     traci.simulationStep()
     actualBatteryCapacity = (float(traci.vehicle.getParameter(str("test_ebike"),"device.battery.actualBatteryCapacity")))
-    print("SOC[%]: ",str(round(actualBatteryCapacity/maxBatteryCapacity *100,2)), "%")
+    print("SOC[%]: ",str(round(actualBatteryCapacity/maxBatteryCapacity *100,2)))
     print("3D-Position[m]",traci.vehicle.getPosition3D("test_ebike"))
     print("total consumed Energy[Wh] ", traci.vehicle.getParameter(str("test_ebike"),"device.battery.totalEnergyConsumed"))
 traci.close()  
